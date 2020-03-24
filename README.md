@@ -1,2 +1,5 @@
 # DWEC
-Desarrollo Web Entorno Cliente
+Desarrollo web entorno cliente
+
+## Author: Beatriz Merino Macía
+## Since: 24/03/2020
